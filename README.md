@@ -2,8 +2,8 @@
 **Company**: CODETECH IT SOLUTIONS<br>
 **Domain**: PYTHON PROGRAMMING<br>
 **Duration**: 15th JUNE to 15th JULY 2024<br>
-**Mentor**:G.SRAVANI<br>
-**Internship ID:CT08DS2436
+**Mentor**:SRAVANI GOUNI<br>
+**`Internship ID**:CT08DS2436
 # overview of the project #
 
 ## PROGRAM FOR: SIMPLE CALCULATOR ##
